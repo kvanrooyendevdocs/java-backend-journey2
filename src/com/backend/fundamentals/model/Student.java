@@ -1,4 +1,4 @@
-package com.backend.fundamentals;
+package com.backend.fundamentals.model;
 
 public class Student {
 
