@@ -6,7 +6,6 @@ import  com.backend.fundamentals.exception.StudentNotFoundException;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 public class StudentService {
     private final List<Student> students = new ArrayList<>();
